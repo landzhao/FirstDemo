@@ -16,6 +16,8 @@ public class MyFilter implements Filter {
     }
 
     public void init(FilterConfig config) throws ServletException {
+        
+        System.out.println("aaaa");
 
     }
 
